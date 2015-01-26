@@ -1,0 +1,9 @@
+Building NextCoin
+
+See doc/readme-qt.rst for instructions on building nextcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NextCoin.
+
+See doc/build-*.txt for instructions on building nextcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of NextCoin.
